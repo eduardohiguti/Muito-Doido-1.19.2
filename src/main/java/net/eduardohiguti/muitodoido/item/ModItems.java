@@ -1,6 +1,7 @@
 package net.eduardohiguti.muitodoido.item;
 
 import net.eduardohiguti.muitodoido.MuitoDoido;
+import net.eduardohiguti.muitodoido.item.custom.ChupetinhaItem;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -15,6 +16,9 @@ public class ModItems {
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.DOIDERA_TAB)));
     public static final RegistryObject<Item> KAIQUONIUM = ITEMS.register("kaiquonium",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.DOIDERA_TAB)));
+
+    public static final RegistryObject<Item> CHUPETINHA = ITEMS.register("chupetinha",
+            () -> new ChupetinhaItem(new Item.Properties().tab(ModCreativeModeTab.DOIDERA_TAB).stacksTo(1)));
 
 
     public static void register(IEventBus eventBus) {

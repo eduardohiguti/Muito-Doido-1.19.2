@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "muitodoido:kaiquonium_block"
+    }
+  ],
+  "result": {
+    "item": "muitodoido:kaiquonium",
+    "count": 9
+  }
+}

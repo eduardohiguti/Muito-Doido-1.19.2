@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "muitodoido:pedrovitanium_ore",
+    "muitodoido:pedrovitanium_block",
+    "muitodoido:deepslate_pedrovitanium_ore",
+    "muitodoido:kaiquonium_ore",
+    "muitodoido:kaiquonium_block",
+    "muitodoido:deepslate_kaiquonium_ore"
+  ]
+}
