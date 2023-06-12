@@ -1,4 +1,13 @@
 {
   "item.muitodoido.pedrovitanium": "Pedrovitanium",
-  "item.muitodoido.kaiquonium": "Kaiquonium"
+  "item.muitodoido.kaiquonium": "Kaiquonium",
+
+  "block.muitodoido.pedrovitanium_block": "Block of Pedrovitanium",
+  "block.muitodoido.pedrovitanium_ore": "Pedrovitanium Ore",
+  "block.muitodoido.deepslate_pedrovitanium_ore": "Deepslate Pedrovitanium Ore",
+  "block.muitodoido.kaiquonium_block": "Block of Kaiquonium",
+  "block.muitodoido.kaiquonium_ore": "Kaiquonium Ore",
+  "block.muitodoido.deepslate_kaiquonium_ore": "Deepslate Kaiquonium Ore",
+
+  "itemGroup.muitodoidotab": "Muito Doido Tab"
 }
